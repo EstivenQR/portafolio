@@ -18,6 +18,14 @@ function scrollToProjects() {
       "images/analisis2.png",
       "images/analisis3.png",
       "images/analisis4.png"
+    ],
+    vt: [
+      "images/Veterinaria/Captura de pantalla 2026-02-24 172530.png",
+      "images/Veterinaria/Captura de pantalla 2026-02-24 172558.png",
+      "images/Veterinaria/Captura de pantalla 2026-02-24 172612.png",
+      "images/Veterinaria/Captura de pantalla 2026-02-24 172627.png",
+      "images/Veterinaria/Captura de pantalla 2026-02-24 172650.png",
+      "images/Veterinaria/Captura de pantalla 2026-02-24 172713.png"
     ]
   };
   
