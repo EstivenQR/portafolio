@@ -26,6 +26,14 @@ function scrollToProjects() {
       "images/Veterinaria/Captura de pantalla 2026-02-24 172627.png",
       "images/Veterinaria/Captura de pantalla 2026-02-24 172650.png",
       "images/Veterinaria/Captura de pantalla 2026-02-24 172713.png"
+    ],
+    cf: [
+      "images/Cafeteria/Captura de pantalla 2026-02-24 182024.png",
+      "images/Cafeteria/Captura de pantalla 2026-02-24 182245.png",
+      "images/Cafeteria/Captura de pantalla 2026-02-24 182259.png",
+      "images/Cafeteria/Captura de pantalla 2026-02-24 182322.png",
+      "images/Cafeteria/Captura de pantalla 2026-02-24 182347.png"
+
     ]
   };
   
